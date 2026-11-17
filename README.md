@@ -1,10 +1,28 @@
 # Ex.No.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques for the the following Prompt Engineering types with examples - Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting - Preceding Question Prompting.
 
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 13.11.26   
+### Name: THEJESWARAN M
+### REGISTER NUMBER : 212223240168 
+
 ### Aim: To write the prompts for these following prompt types and evaluate that using any one method 1. Straightforward Prompts, 2. Tabular Format Prompting 3.Preceding Question Prompting and 4. Missing Word Prompting
 
-### Explanation
+## Explanation:
+Prompt engineering is the process of designing and structuring instructions given to Artificial Intelligence (AI) models to generate meaningful, accurate, and relevant responses. A well-designed prompt helps an AI system understand the user's requirements and produce the expected output.
+
+Different prompting techniques are used to control the response format, improve accuracy, provide context, and complete missing information.
+
+In this experiment, four different prompting techniques are implemented and evaluated using the Smart Agriculture System.
+
+Types of Prompt Engineering
+Straightforward Prompting: Giving a direct instruction to the AI model.
+Tabular Format Prompting: Asking the AI model to organize information in rows and columns.
+Preceding Question Prompting: Providing related questions before the main instruction to establish context.
+Missing Word Prompting: Providing incomplete sentences with blanks for the AI model to complete.
+
+## USE CASE
+AI-Based Healthcare Diagnosis System
+
+The objective is to use AI to provide basic health information based on symptoms entered by users. The system generates possible explanations and suggests whether medical consultation may be required. It does not provide a confirmed medical diagnosis.
 
 ## PROCEDURE
 1. Straightforward Prompting
@@ -84,6 +102,6 @@ Missing Word	Excellent	Good	Excellent
 Thus, different prompting techniques were executed successfully, and their generated outputs were evaluated using the accuracy and relevance evaluation method.
 
 ## Result: 
-The various types of Prompts are executed successfully with generated the report.
+Thus, the four prompt engineering techniques, namely Straightforward Prompting, Tabular Format Prompting, Preceding Question Prompting, and Missing Word Prompting, were executed successfully. The generated outputs were evaluated, and a scenario-based report on the Smart Agriculture System was developed.
 
 
